@@ -14,22 +14,22 @@ const Header = () => {
 
           <div className="flex justify-center lg:w-0 lg:flex-1">
             <Link href="/blog">
-              <span className="mt-2 ml-10 cursor-pointer align-middle font-medium text-white md:float-right">
+              <span className="link-underline mt-2 ml-10 cursor-pointer align-middle font-medium text-white md:float-right">
                 Project
               </span>
             </Link>
             <Link href="/blog">
-              <span className="mt-2 ml-10 cursor-pointer align-middle font-medium text-white md:float-right">
+              <span className="link-underline mt-2 ml-10 cursor-pointer align-middle font-medium text-white md:float-right">
                 Technologies
               </span>
             </Link>
             <Link href="/blog">
-              <span className="mt-2 ml-10 cursor-pointer align-middle font-medium text-white md:float-right">
+              <span className="link-underline mt-2 ml-10 cursor-pointer align-middle font-medium text-white md:float-right">
                 Blog
               </span>
             </Link>
             <Link href="/blog">
-              <span className="mt-2 ml-10 cursor-pointer align-middle font-medium text-white md:float-right">
+              <span className="link-underline mt-2 ml-10 cursor-pointer align-middle font-medium text-white md:float-right">
                 About
               </span>
             </Link>
